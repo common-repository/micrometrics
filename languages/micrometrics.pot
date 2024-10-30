@@ -1,0 +1,140 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MicroMetrics\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-23 10:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-5.9.3\n"
+"X-Domain: micrometrics"
+
+#: micrometrics-admin.php:38 micrometrics-admin.php:53
+#: micrometrics-admin.php:68 micrometrics-admin.php:83
+msgid "Activado"
+msgstr ""
+
+#: micrometrics.php:49
+msgid "Ajustes"
+msgstr ""
+
+#: micrometrics-admin.php:39 micrometrics-admin.php:54
+#: micrometrics-admin.php:69 micrometrics-admin.php:84
+msgid "Apagado"
+msgstr ""
+
+#: micrometrics-admin.php:105
+msgid "Atributo"
+msgstr ""
+
+#: micrometrics-admin.php:101
+msgid "Añadir nuevo evento"
+msgstr ""
+
+#. Author of the plugin
+msgid "Brandalismo"
+msgstr ""
+
+#: micrometrics-admin.php:78
+msgid "Búsquedas"
+msgstr ""
+
+#: micrometrics-admin.php:63
+msgid "Clics salientes"
+msgstr ""
+
+#: micrometrics-admin.php:33
+msgid "Do Not Track"
+msgstr ""
+
+#: micrometrics-admin.php:19
+msgid "Documentación"
+msgstr ""
+
+#: micrometrics-admin.php:109 micrometrics-admin.php:135
+#: micrometrics-admin.php:137 micrometrics-admin.php:157
+msgid "Eliminar"
+msgstr ""
+
+#: micrometrics-admin.php:48
+msgid "Errores 404"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Este plugin agrega de forma fácil y rápida el código de seguimiento de "
+"MicroMetrics a tu sitio web y te permite registrar eventos."
+msgstr ""
+
+#: micrometrics.php:60 micrometrics-admin.php:23
+msgid "Eventos"
+msgstr ""
+
+#: micrometrics.php:59 micrometrics-admin.php:22
+msgid "General"
+msgstr ""
+
+#: micrometrics-admin.php:144
+msgid "Guardar cambios"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://micrometrics.es"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.brandalismo.es"
+msgstr ""
+
+#. Name of the plugin
+#: micrometrics-admin.php:18
+msgid "MicroMetrics"
+msgstr ""
+
+#: micrometrics-admin.php:108
+msgid "Moneda (Opcional)"
+msgstr ""
+
+#: micrometrics-admin.php:42 micrometrics-admin.php:57
+#: micrometrics-admin.php:72 micrometrics-admin.php:87
+msgid "Más información"
+msgstr ""
+
+#: micrometrics-admin.php:106
+msgid "Nombre"
+msgstr ""
+
+#: micrometrics-admin.php:71
+msgid ""
+"Registra automáticamente un evento cada vez que se produce un clic en un "
+"enlace saliente."
+msgstr ""
+
+#: micrometrics-admin.php:56
+msgid ""
+"Registra automáticamente un evento cada vez que se produce un error 404."
+msgstr ""
+
+#: micrometrics-admin.php:86
+msgid ""
+"Registra automáticamente un evento cada vez que se realiza una búsqueda."
+msgstr ""
+
+#: micrometrics-admin.php:41
+msgid "Respeta la decisión del usuario de no ser rastreado."
+msgstr ""
+
+#: micrometrics-admin.php:104
+msgid "Selector"
+msgstr ""
+
+#: micrometrics-admin.php:107
+msgid "Valor (Opcional)"
+msgstr ""
